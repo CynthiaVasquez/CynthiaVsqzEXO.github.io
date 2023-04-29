@@ -1,0 +1,77 @@
+/* Aquí va el comentario */
+body {
+    /*RGB red green blue */
+    background-image: url("https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
+    /* background-color: rgb(250, 233, 208);*/
+    color: rgb(188, 141, 192);
+    font-family: 'Comic Neue', cursive;
+
+}
+
+p {
+    color: rgb(250, 153, 7);
+}
+
+h1 {
+    color: rgb(206, 203, 31);
+}
+
+/*Para agregar clase, ponemos ( . ) antes del nombre*/
+.titulo-web{
+    color: green;
+    font-size: small;
+}
+/* .cat-capy{
+    width: 150px;
+} */
+
+img{
+    width:200px ;/*width - ancho*/
+}
+
+.poderes{
+    color: rgb(236, 73, 163);
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.blanco {
+    width: 280px;
+    height: 260px;
+    margin: 0 50px;
+}
+
+.traje {
+    width: 250;
+    height: 150;
+    margin: 0 20px;
+}
+
+.formal{
+    width: 280px;
+    height: 210px;
+    margin: 0 20px;
+}
+
+.lucky{
+    width: 200px;
+    margin: 0 20px;
+}
+
+.kokobop{
+    width: 200px;
+    margin: 0 20px;
+}
+
+.hoja {
+    width: 200px;
+    margin: 0 20px;
+}
+
+.cuadro  {
+    display: flex;
+    justify-content: center;
+}
